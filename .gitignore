@@ -1,0 +1,15 @@
+node_modules
+node_modules/
+dist
+dist-ssr
+.next
+.vercel
+.env
+.env.local
+.env.*.local
+*.local
+.DS_Store
+*.log
+.idea
+.vscode/*
+!.vscode/extensions.json
