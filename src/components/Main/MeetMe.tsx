@@ -35,7 +35,7 @@ const MeetMe = () => {
               you need a committed developer to build or improve your product,
               feel free to connect.
               <Link
-                href="https://mail.google.com/mail/u/0/?fs=1&to=skakram00zz@gmail.com&tf=cm"
+                href="https://mail.google.com/mail/u/0/?fs=1&to=shivrajmohite00zz@gmail.com&tf=cm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block mt-3 font-bold underline [text-decoration-thickness:1px]"
