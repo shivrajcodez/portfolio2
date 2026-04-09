@@ -8,29 +8,21 @@ const MeetMe = () => {
       id="meet-me"
       className="flex items-center justify-center h-full w-full overflow-auto"
     >
-      <div className="w-full h-full mx-auto max-w-4xl p-2.5 md:p-0 flex items-center md:justify-center">
+      <div className="w-full h-full mx-auto max-w-4xl p-2.5 md:p-0 flex items-center md:justify-center ">
         <div className="space-y-12 md:space-y-16">
           <div className="text-center">
             <h2 className="text-xl md:text-2xl xl:text-3xl font-bold tracking-wider mb-3 md:mb-4">
               ABOUT ME
             </h2>
-            <p className="text-sm lg:text-base xl:text-md leading-relaxed max-w-3xl mx-auto">
-              Hi! I&apos;m{" "}
-              <span className="[font-weight:700]">Shivraj Mohite</span>, a{" "}
-              <span className="[font-weight:700]">Backend & DevOps Engineer</span>{" "}
-              from{" "}
-              <span className="[font-weight:700]">Nashik, Maharashtra</span> ッ
-              I love building{" "}
-              <span className="[font-weight:700]">scalable backend systems</span>{" "}
-              with Java & Spring Boot, containerizing apps with{" "}
-              <span className="[font-weight:700]">Docker & Kubernetes</span>, and
-              deploying on{" "}
-              <span className="[font-weight:700]">AWS</span>. Currently pursuing
-              B.Tech in CS at{" "}
-              <span className="[font-weight:700]">GGSIPU Nashik</span> and
-              continuously sharpening my{" "}
-              <span className="[font-weight:700]">DSA skills</span> with 200+
-              problems solved.
+            <p className="text-sm lg:text-base xl:text-md leading-relaxed max-w-3xl mx-auto ">
+              Hi! I&apos;m <span className="[font-weight:700]">Shivraj Mohite</span>,
+              a <span className="[font-weight:700]">19 y/o</span> software developer ッ who&apos;s always ready to{" "}
+              <span className="[font-weight:700]">explore</span> new things. I
+              actively contribute to{" "}
+              <span className="[font-weight:700]">open source</span>, build
+              real-world <span className="[font-weight:700]">projects</span>,
+              and continuously sharpen my{" "}
+              <span className="[font-weight:700]">DSA skills</span>.
             </p>
           </div>
 
@@ -39,11 +31,11 @@ const MeetMe = () => {
               HIRE ME
             </h2>
             <p className="text-sm lg:text-base xl:text-md leading-relaxed max-w-3xl mx-auto">
-              I&apos;m available for internship and freelance opportunities. If
-              you need a committed backend developer to build or improve your
-              product, feel free to connect.
+              I&apos;m available for freelance and internship opportunities. If
+              you need a committed developer to build or improve your product,
+              feel free to connect.
               <Link
-                href="https://mail.google.com/mail/u/0/?fs=1&to=shivrajmohite00zz@gmail.com&tf=cm"
+                href="https://mail.google.com/mail/u/0/?fs=1&to=skakram00zz@gmail.com&tf=cm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block mt-3 font-bold underline [text-decoration-thickness:1px]"
