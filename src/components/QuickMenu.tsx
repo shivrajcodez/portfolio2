@@ -70,7 +70,7 @@ export default function QuickMenu({ fromSection }: { fromSection?: string }) {
       >
         {/* Star Repo */}
         <Link
-          href="https://github.com/shivrajcodez/Akram-Portfolio"
+          href="https://github.com/shivrajcodez/portfolio2"
           target="_blank"
           rel="noopener noreferrer"
           className={menuItemClass}
